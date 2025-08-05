@@ -10,6 +10,7 @@ Atualmente Tecnologias que uso e estudo 💻:
 ![VSCode](https://img.shields.io/badge/-VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=fff)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
