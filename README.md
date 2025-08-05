@@ -23,7 +23,7 @@ Atualmente Tecnologias que uso e estudo 💻:
 
 - [🔗 WebPluma](https://github.com/AlexadraCampos/pluma): Assistente virtual com IA para agendamentos e atendimento.(em andamento o projeto)
 - [🔗 IDGlobeCheck](https://github.com/AlexadraCampos/IDGlobeCheck): Verificação inteligente de documentos usando Python.
-- [🔗 Frontend](https://github.com/AlexadraCampos/Ponto-_de-_Luxo): Layout moderno para e-commerce de decoração feito com HTML, CSS e JavaScript e python.
+- [🔗 Frontend-Site de Joias](https://github.com/AlexadraCampos/Ponto-_de-_Luxo): Layout moderno para e-commerce de decoração feito com HTML, CSS e JavaScript e python.
 
 
 ---
