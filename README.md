@@ -42,9 +42,7 @@ Atualmente Tecnologias que uso e estudo 💻:
 
 ---
 
-<a href="https://github.com/dioncodes/octotetris">
-  <img src="https://raw.githubusercontent.com/dioncodes/octotetris/main/octotetris.gif" alt="OctoTetris" />
-</a>
+[![OctoTetris](https://raw.githubusercontent.com/dioncodes/octotetris/main/octotetris.gif)](https://github.com/dioncodes/octotetris)
 
 ### 🤝 Bora trocar ideia?
 
