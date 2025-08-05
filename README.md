@@ -1,16 +1,31 @@
-## Hi there 👋
+## ☕ Oi! Eu sou a Alexandra. Seja bem-vindo(a) ao meu GitHub 💻🖤
 
-<!--
-**AlexadraCampos/AlexadraCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora em formação, apaixonada por interfaces inteligentes e soluções criativas.  
+Atualmente estudando **Python**, **JavaScript**, **React** e **Django**, com foco em desenvolvimento web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em Destaque
+
+- [🔗 WebPluma](https://github.com/AlexadraCampos/pluma): Assistente virtual com IA para agendamentos e atendimento.(em andamento o projeto)
+- [🔗 IDGlobeCheck](https://github.com/AlexadraCampos/IDGlobeCheck): Verificação inteligente de documentos usando Python.
+
+---
+
+### 🎯 Meus Objetivos
+
+- Contribuir com **projetos open-source**
+- Desenvolver soluções com **IA**, **chatbots** e **interfaces modernas**
+- Evoluir no backend com **MySQL** e boas práticas em APIs REST
+
+---
+
+### 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexadraCampos&show_icons=true&theme=dracula)
+
+---
+
+### 🤝 Bora trocar ideia?
+
+Se quiser conversar sobre projetos, parcerias ou freelas, estou por aqui!
