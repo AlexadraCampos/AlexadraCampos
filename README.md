@@ -42,7 +42,9 @@ Atualmente Tecnologias que uso e estudo 💻:
 
 ---
 
-![Tetris](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ4ZjV1ODZmNHliOTY2bDM4bWxneTh4dzFtMGk5enRuZDg5M2NreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbb8SIhBhflLi/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ4ZjV1ODZmNHliOTY2bDM4bWxneTh4dzFtMGk5enRuZDg5M2NreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbb8SIhBhflLi/giphy.gif" alt="Tetris" width="300"/>
+</p>
 
 ### 🤝 Bora trocar ideia?
 
