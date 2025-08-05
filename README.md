@@ -38,7 +38,7 @@ Atualmente Tecnologias que uso e estudo 💻:
 
 ### 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexadraCampos&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexadraCampos&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
