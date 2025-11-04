@@ -24,6 +24,10 @@ Atualmente Tecnologias que uso e estudo 💻:
   https://gitfollio.vercel.app/AlexadraCampos
 </a>
 
+<a href="https://portfolio-powerbi.netlify.app/"> 🔗
+  Power BI e SQL
+</a>
+
 <!-- GitFolio:start
 {
   "gitfolio": "on",
