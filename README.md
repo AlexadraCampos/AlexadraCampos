@@ -20,7 +20,7 @@ Atualmente Tecnologias que uso e estudo 💻:
 
 
 ### 🤝 Bora trocar ideia?
-<a href="https://gitfollio.vercel.app/AlexadraCampos"> 🔗
+<a href="https://portfolio-alexandracordeiro.netlify.app/"> 🔗
   https://gitfollio.vercel.app/AlexadraCampos
 </a>
 
