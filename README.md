@@ -21,7 +21,7 @@ Atualmente Tecnologias que uso e estudo 💻:
 
 ### 🤝 Bora trocar ideia?
 <a href="https://portfolio-alexandracordeiro.netlify.app/"> 🔗
-  https://gitfollio.vercel.app/AlexadraCampos
+  Meu Portfolio
 </a>
 
 <a href="https://portfolio-powerbi.netlify.app/"> 🔗
