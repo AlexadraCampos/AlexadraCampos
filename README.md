@@ -4,7 +4,7 @@
   Atualmente estou cursando o 5º período de Análise e Desenvolvimento de Sistemas e atuo na área de suporte técnico de TI, aprofundando meus conhecimentos em desenvolvimento Full Stack.
 </p>
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, TypeScript, Python, HTML5, CSS3, SQL</strong>
+  🦄 Linguagens: <strong>JavaScript, PHP, TypeScript, Python, HTML5, CSS3, SQL</strong>
 </p>
 <p align="left">
   💼 Ferramentas: <strong>React.js, Node.js, NestJS, Express, Docker, Git, GitHub, VS Code, MongoDB, PostgreSQL, Power BI, Insomnia</strong>
