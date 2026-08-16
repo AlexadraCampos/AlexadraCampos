@@ -10,6 +10,9 @@
   💼 Ferramentas: <strong>React.js, Node.js, NestJS, Express, Docker, Git, GitHub, VS Code, MongoDB, PostgreSQL, Power BI, Insomnia</strong>
 </p>
 <p align="left">
+  📌 Acompanhe a organização e o andamento dos meus projetos no board: <a href="https://github.com/users/AlexadraCampos/projects/2" title="Development Backlog">Development Backlog</a>
+</p>
+<p align="left">
   💌 Aqui vai uma mensagem para entrar em contato comigo: ⤵️
 </p>
 <p align="left">
